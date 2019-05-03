@@ -23,7 +23,7 @@ class _SplashScreenState extends State<SplashScreen> {
                   end: Alignment.centerLeft,
               )
             ),
-          )
+          ),
 
           Column(
             children: <Widget>[
